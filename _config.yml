@@ -14,8 +14,7 @@ title: Derick Freitas - Mechanical Engineering Portfolio # This is what shows up
 # Hero Section
 name: Derick Freitas
 headline: Mechanical Engineering | CAD & Prototyping Design
-description: >- # dont remove this line. this will ignore all new lines until the next section
-Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
+description: Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/2026 - Profile Picture.jpg
