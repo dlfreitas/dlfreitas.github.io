@@ -17,7 +17,7 @@ headline: Mechanical Engineering | CAD & Prototyping Design
 description: Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: "./assets/images/profile-image/2026 - Profile Picture.jpg"
+profile_image: "/assets/images/profile-image/2026 - Profile Picture.jpg"
 
 
 # Link your resume
