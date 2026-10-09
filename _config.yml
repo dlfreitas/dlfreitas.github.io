@@ -13,7 +13,7 @@ title: Derick Freitas - Mechanical Engineer # This is what shows up in the tab o
 
 # Hero Section
 name: Derick Freitas
-headline: Mechanical Engineering | 
+headline: Mechanical Engineer | Guitarist
 description: Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -28,21 +28,21 @@ resume-url: /assets/resume/resume.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin:      https://www.linkedin.com/in/derick-freitas-6a88aa372/
-  github:      https://github.com/Dhaerque 
+  linkedin:     derick-freitas-6a88aa372
+  github:     Dhaerque 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
+  instragram:      Dhaerque
+  youtube:           Dhaerque
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: Technical
+  - category: CAD & Design
     tools:
     - SolidWorks
     - Matlab
@@ -59,7 +59,7 @@ skills:
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:  
+formspree-key: xzedgbdz
 
 
 
