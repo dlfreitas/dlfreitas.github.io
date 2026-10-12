@@ -43,27 +43,22 @@ external-links:    # input only your own url slug. The icons with missing entrie
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
   - category: CAD & Design
-    tools:
+    - tools:
       - SolidWorks
       - Fusion360
       - Bambu Slicer
       - TinkerCad
-    
-    
   - category: Simulation Modeling
-    tools: 
+    - tools: 
       - MATLAB
       - Simulink
-      
    - category: Prototyping & Manufacturing
-      tools: 
+      - tools: 
         - 3D Printing (Bambu Slicer)
         - Manual Mill & Lathe
         - CNC Mill & Lathe
         - Drill Press
         - Vertical Band Saw
-    category:
-    tools:
   - category: Languages
     tools:
     - Portuguese
