@@ -7,7 +7,7 @@
 
 # Main Page Setup
 
-title: Derick Freitas - Mechanical Engineer # This is what shows up in the tab of the browser
+title: Derick Freitas # This is what shows up in the tab of the browser
 
 
 
@@ -44,15 +44,28 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: CAD & Design
     tools:
-    - SolidWorks
-    - Matlab
-    - Simulink
-    - Fusion360
-    - Bambu Slicer
-    - TinkerCad
-    - 3D Printing
-    - Manufacturing (Mill, Lathe, CNC Mill & Lathe, Drill Press)
-  - category: Soft
+      - SolidWorks
+      - Fusion360
+      - Bambu Slicer
+      - TinkerCad
+    
+    
+  - category: Simulation Modeling
+    tools: 
+      - MATLAB
+      - Simulink
+      
+
+    
+    category: Prototyping & Manufacturing
+      tools: 3D Printing (Bambu Slicer)
+        - Manual Mill & Lathe
+        - CNC Mill & Lathe
+        - Drill Press
+        - Vertical Band Saw
+    category:
+    tools:
+  - category: Languages
     tools:
     - Portuguese
     
