@@ -17,7 +17,7 @@ headline: Mechanical Engineer | Guitarist
 description: Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: "/assets/images/profile-image/2026 - Profile Picture.jpg"
+profile_image: "/assets/images/profile-image/2026-Profile Picture.jpg"
 
 
 # Link your resume
@@ -55,10 +55,9 @@ skills:
       - MATLAB
       - Simulink
       
-
-    
-    category: Prototyping & Manufacturing
-      tools: 3D Printing (Bambu Slicer)
+   - category: Prototyping & Manufacturing
+      tools: 
+        - 3D Printing (Bambu Slicer)
         - Manual Mill & Lathe
         - CNC Mill & Lathe
         - Drill Press
