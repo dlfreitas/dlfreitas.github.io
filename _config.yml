@@ -17,7 +17,7 @@ headline: Mechanical Engineer | Guitarist
 description: Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: "/assets/images/profile-image/2026-Profile Picture.jpg"
+profile_image: /assets/images/profile-image/2026-Profile-Picture.jpg
 
 
 # Link your resume
@@ -34,34 +34,34 @@ external-links:    # input only your own url slug. The icons with missing entrie
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
-  instragram:      Dhaerque
+  instagram:      dhaerque
   youtube:           Dhaerque
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
+# Skills Section - Add the list of your Skills by categories/tools.
 skills:
   - category: CAD & Design
-    - tools:
+    tools:
       - SolidWorks
       - Fusion360
       - Bambu Slicer
       - TinkerCad
   - category: Simulation Modeling
-    - tools: 
+    tools:
       - MATLAB
       - Simulink
-   - category: Prototyping & Manufacturing
-      - tools: 
-        - 3D Printing (Bambu Slicer)
-        - Manual Mill & Lathe
-        - CNC Mill & Lathe
-        - Drill Press
-        - Vertical Band Saw
+  - category: Prototyping & Manufacturing
+    tools:
+      - 3D Printing (Bambu Slicer)
+      - Manual Mill & Lathe
+      - CNC Mill & Lathe
+      - Drill Press
+      - Vertical Band Saw
   - category: Languages
     tools:
-    - Portuguese
+      - Portuguese
     
 
 
