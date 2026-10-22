@@ -54,7 +54,7 @@ skills:
       - Simulink
   - category: Prototyping & Manufacturing
     tools:
-      - 3D Printing (Bambu Slicer)
+      - FDM 3D Printing
       - CNC Mill & Lathe
       - Manual Mill & Lathe
       - Drill Press
