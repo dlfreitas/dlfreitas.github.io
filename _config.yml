@@ -14,7 +14,7 @@ title: Derick Freitas # This is what shows up in the tab of the browser
 # Hero Section
 name: Derick Freitas
 headline: Mechanical Engineer | Guitarist
-description: Mechanical Engineering student at UC Davis with experience in 3D modeling, project prototyping, documentation, and data analysis.
+description: Mechanical Engineering student and gigging jazz guitarist at UC Davis with experience in CAD, prototype design & manufacturing, and team projects.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: /assets/images/profile-image/2026-Profile-Picture.jpg
@@ -22,27 +22,27 @@ profile_image: /assets/images/profile-image/2026-Profile-Picture.jpg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: /assets/resume/resume.pdf
+resume-url: /assets/resume/Derick_Freitas_Resume()1.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin:     derick-freitas-6a88aa372
-  github:     Dhaerque 
+  github:      
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
   instagram:      dhaerque
-  youtube:           Dhaerque
+  youtube:           dhaerque
   discord:            # https://discord.com/users/{your url slug} 
   bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools.
 skills:
-  - category: CAD & Design
+  - category: CAD
     tools:
       - SolidWorks
       - Fusion360
@@ -55,10 +55,10 @@ skills:
   - category: Prototyping & Manufacturing
     tools:
       - 3D Printing (Bambu Slicer)
-      - Manual Mill & Lathe
       - CNC Mill & Lathe
+      - Manual Mill & Lathe
       - Drill Press
-      - Vertical Band Saw
+      - Band Saw
   - category: Languages
     tools:
       - Portuguese
