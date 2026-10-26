@@ -1,18 +1,15 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
-skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+title: Ibanez TS9 Baseplate
+description:  
+        I designed a guitar pedal baseplate for mounting my pedal onto my pedalboard. Designs being sold on Etsy had durability issues I optmized the fit and durability through testing and customer feedback. I improved the mounting strength and stability by adding material supports around screw contacts and incorporating an interlocking support hook with dual alignment features
 
-main-image: /project2.jpg
+skills: 
+  - FDM 3D Printing
+  - SolidWorks
+  - Bambu Slicer
+
+main-image: /assets/media-ibanez/Ibanez Cover IMG.png
 ---
 
 ---
@@ -31,8 +28,18 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+/assets/media-ibanez/Etsy Ibanez (1).png
+/assets/media-ibanez/Etsy Review.png
+/assets/media-ibanez/Finished Pedalboard.png
+/assets/media-ibanez/Ibanez 1.png
+/assets/media-ibanez/Ibanez 2.png
+/assets/media-ibanez/Ibanez 3.png
+
+/assets/media-ibanez/Ibanez Feature 3.png
+/assets/media-ibanez/Ibanez Fitting (1).png
+/assets/media-ibanez/Ibanez Fitting (2).png
+/assets/media-ibanez/Ibanez Installed.png
+/assets/media-ibanez/Ibanez Pedal Constaints.png
 
 
 ## Embedding youtube video
