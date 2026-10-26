@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Fender Stratocaster CAD Model
-description: Created a CAD model, assembly, and drawings of an electric guitar in SolidWorks. Collaborated in a four-person team to model a Fender Stratocaster electric guitar, modelling the neck, headstock, fretboard, frets, and inlays with accurate dimensions and assembly constraints 
+description: 
+      Modeled the neck, fretboard, headstock, frets, and inlays in a 4-person team to create a full-scale CAD model of a Fender Stratocaster electric guitar using luthier multi-view drawings. Utilized lofting to form the tapered fretboard profile and fillets to create fretboard and neck radii. Produced upper-guitar subassembly, applying constraints to mate to body assembly for the complete model
+
 
 skills: 
   - SolidWorks
   - CAD Assembly
-  - Technical Drawings
   
 
-main-image:
+main-image: assets/media-stratocaster/Full-Fender-Stratocaster-Assembly.png
 ---
 
 ---
