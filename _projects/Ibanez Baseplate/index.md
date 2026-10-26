@@ -2,14 +2,14 @@
 layout: post
 title: Ibanez TS9 Baseplate
 description:  
-        I designed a guitar pedal baseplate for mounting my pedal onto my pedalboard. Designs being sold on Etsy had durability issues I optmized the fit and durability through testing and customer feedback. I improved the mounting strength and stability by adding material supports around screw contacts and incorporating an interlocking support hook with dual alignment features
+        Designed a guitar pedal baseplate for mounting my pedal onto my pedalboard. Designs being sold online had durability issues noted by customer reviews. Optmized the durability and fit through customer feedback and testing, reinforcing areas that experienced greatest load and added features that transferred the load into the pedal metal chassis. Improved mounting strength and stability by adding material supports around screw contacts and incorporating an interlocking support hook with dual alignment features.
 
 skills: 
   - FDM 3D Printing
   - SolidWorks
   - Bambu Slicer
 
-main-image: /assets/media-ibanez/Ibanez Cover IMG.png
+main-image: /assets/media-ibanez/Ibanez-Cover-IMG.png
 ---
 
 ---
