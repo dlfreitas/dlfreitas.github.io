@@ -9,16 +9,15 @@ skills:
   - SolidWorks
   - Bambu Slicer
 
-main-image: /assets/media-ibanez/Ibanez-Cover-IMG.png
+main-image: /images/Ibanez-Cover-IMG.jpg
 ---
 
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
+## Feature 1
+
+## Feature 2
+
+## Feature 3
 
 
 ## Embedding images 
@@ -28,18 +27,6 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
-/assets/media-ibanez/Etsy Ibanez (1).png
-/assets/media-ibanez/Etsy Review.png
-/assets/media-ibanez/Finished Pedalboard.png
-/assets/media-ibanez/Ibanez 1.png
-/assets/media-ibanez/Ibanez 2.png
-/assets/media-ibanez/Ibanez 3.png
-
-/assets/media-ibanez/Ibanez Feature 3.png
-/assets/media-ibanez/Ibanez Fitting (1).png
-/assets/media-ibanez/Ibanez Fitting (2).png
-/assets/media-ibanez/Ibanez Installed.png
-/assets/media-ibanez/Ibanez Pedal Constaints.png
 
 
 ## Embedding youtube video
