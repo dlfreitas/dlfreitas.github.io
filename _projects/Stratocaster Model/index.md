@@ -9,7 +9,7 @@ skills:
   - SolidWorks
   
 
-main-image: /assets/media-stratocaster/Assembly-Exploded-View-1.png
+main-image: /assets/media-stratocaster/Full-Fender-Stratocaster-Assembly.png
 ---
 
 ---
