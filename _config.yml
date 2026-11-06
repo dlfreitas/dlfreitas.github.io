@@ -48,10 +48,10 @@ skills:
       - Fusion360
       - Bambu Slicer
       - TinkerCad
-  - category: Simulation Modeling
+  - category: Programming
     tools:
+      - C++
       - MATLAB
-      - Simulink
   - category: Prototyping & Manufacturing
     tools:
       - FDM 3D Printing
