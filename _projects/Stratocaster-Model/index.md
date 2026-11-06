@@ -28,27 +28,15 @@ Created neck curvature by filleting neck contours.
 ## Fretboard
 {% include image-gallery.html images="Fretboard-0.jpg, Fretboard-2.jpg" %}
 Used a loft to create the 241.30 mm fretboard radius and linear taper in a single feature.
-{% include image-gallery.html images="Fretboard-4.jpg, Fretboard-3.jpg" %}
+{% include image-gallery.html images="Fretboard-4.jpg" %}
+{% include image-gallery.html images="Fretboard-3.jpg" height="400" %}
 Etched the slots for the frets, nut, and fret marker inlays using cut extrudes. Dimensioned each fret based on luthier drawings. 
-{% include image-gallery.html images="Fretboard-1.jpg" %}
+{% include image-gallery.html images="Fretboard-1.jpg" height="600" %}
 **Completed fretboard part**
 ## Frets & Inlays
 {% include image-gallery.html images="" height="400" %}
 ## Multiview Drawings
 {% include image-gallery.html images="Stratocaster-Multiview-Drawings-1.jpg, Stratocaster-Multiview-Drawings-2.jpg, Stratocaster-Multiview-Drawings-3.jpg, Stratocaster-Multiview-Drawings-4.jpg" %}
-
-
-
-
-## Embedding images 
-### External images
-{% include image-gallery.html images="https://live.staticflickr.com/65535/52821641477_d397e56bc4_k.jpg, https://live.staticflickr.com/65535/52822650673_f074b20d90_k.jpg" height="400"%}
-<span style="font-size: 10px">"Starship Test Flight Mission" from https://www.flickr.com/photos/spacex/52821641477/</span>  
-You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
-
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
 
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
