@@ -19,7 +19,7 @@ main-image: /images/Full-Fender-Stratocaster-Assembly.jpg
 ## Neck
 {% include image-gallery.html images="" height="400" %}
 ## Fretboard
-
+{% include image-gallery.html images="Fretboard-0.jpg, Fretboard-1.jpg, Fretboard-2.jpg, Fretboard-3.jpg" %}
 ## Headstock
 
 ## Frets & Inlays
