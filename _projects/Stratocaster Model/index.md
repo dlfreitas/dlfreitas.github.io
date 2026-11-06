@@ -9,12 +9,12 @@ skills:
   - SolidWorks
   
 
-main-image: /assets/media-stratocaster/Full-Fender-Stratocaster-Assembly.png
+main-image: /assets/media-stratocaster/Assembly-Exploded-View-1.png
 ---
 
 ---
 ## Upper Guitar Construction
-{% include image-gallery.html images="/assets/media-stratocaster/Assembly Exploded View 1.png" %}
+{% include image-gallery.html images="/assets/media-stratocaster/Assembly Exploded View 1.png" height="400" %}
 ### Neck
 ### Fretboard
 ### Headstock
