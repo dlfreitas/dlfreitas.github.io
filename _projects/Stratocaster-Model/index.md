@@ -14,7 +14,7 @@ main-image: /images/Full-Fender-Stratocaster-Assembly.jpg
 
 ---
 ## Upper Guitar Construction
-{% include image-gallery.html images="/projects/Stratocaster Model/images/Assembly-Exploded-View-1.jpg" height="400" %}
+{% include image-gallery.html images="/Stratocaster-Model/images/Assembly-Exploded-View-1.jpg" height="400" %}
 
 ## Neck
 
