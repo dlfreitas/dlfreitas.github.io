@@ -20,18 +20,21 @@ main-image: /images/Full-Fender-Stratocaster-Assembly.jpg
 This schematic provided (most) of the necessary dimensions used in this modeling project.
 ## Neck
 {% include image-gallery.html images="Neck-1.jpg, Neck-7.jpg" %}
-Created the outline sketch of the neck forming the radial and tapering geometry on its edges, as well as shaping the headstock utilizing spline curves. Cut extruded back of neck roughing out shape for fillets and created heel of headstock. 
+Created the outline sketch of the neck forming the radial and tapering boundary, as well as shaping the headstock utilizing spline curves. Cut extruded back of neck roughing out rear shape and created face of headstock. 
 {% include image-gallery.html images="Neck-6.jpg, Neck-5.jpg" %}
-Created neck 
-{% include image-gallery.html images="Neck-2.jpg" %}
-Completed neck part.
+Created neck curvature utilizing fillets on neck contours. 
+{% include image-gallery.html images="Neck-2.jpg" height="600" %}
+**Completed neck part**
 ## Fretboard
-{% include image-gallery.html images="Fretboard-0.jpg, Fretboard-1.jpg, Fretboard-2.jpg, Fretboard-3.jpg" %}
-Used a loft to create the fretboard radius and taper in a single feature.
-## Headstock
-{% include image-gallery.html images="" height="400" %}
+{% include image-gallery.html images="Fretboard-0.jpg, Fretboard-3.jpg" %}
+Used a loft to create the 241.30 mm fretboard radius and linear taper in a single feature.
+{% include image-gallery.html images="Fretboard-4.jpg, Fretboard-1.jpg" %}
+Etched the slots for the frets, nut, and fret marker inlays using cut extrudes. Dimensioned each fret based on luthier drawings. 
+{% include image-gallery.html images="Fretboard-2.jpg" %}
+**Completed fretboard part**
 ## Frets & Inlays
 {% include image-gallery.html images="" height="400" %}
+## Drawings
 
 
 
