@@ -11,9 +11,9 @@
               loading="lazy"
           />
       {% else %}
-          {% assign page_url_without_index = page.url | remove: 'index' | remove: '.html' %}
+       {% assign page_url_clean = page.url | remove: 'index/' | remove: 'index.html' %}
           <img 
-              src="{{ page_url_without_index }}{{ image_name }}" 
+              src="{{ page_url_clean }}images/{{ image_name }}"
               alt="{{image_name}}"
               loading="lazy"
               onerror="this.onerror=null;this.src=this.src.replace('.webp','.png').replace('.png','.webp');"
