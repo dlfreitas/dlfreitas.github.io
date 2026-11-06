@@ -14,10 +14,10 @@ main-image: /images/Full-Fender-Stratocaster-Assembly.jpg
 
 ---
 ## Upper Guitar Construction
-{% include image-gallery.html images="/_projects/Stratocaster-Model/images/Assembly-Exploded-View-1.jpg" height="400" %}
+{% include image-gallery.html images="Assembly-Exploded-View-1.jpg" height="400" %}
 
 ## Neck
-
+{% include image-gallery.html images="" height="400" %}
 ## Fretboard
 
 ## Headstock
