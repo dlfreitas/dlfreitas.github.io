@@ -46,7 +46,7 @@ Fret marker inlays were a very simple cylindrical extrusion. No troubles here.
 In guitar fabrication, frets are a subtractive manufacturing process, initially coming in a standard size and are then cut and filed down in place to the width of the fretboard at that point. I needed an efficient way to model the different lengths of each fret wire so they would mate flush to the fretboard for the given fret without modeling from scratch a dozen times. I began by choosing a fret near the center, and ensuring features were fully parametric so they would only require dimension changes to be transposed. This allowed me to easily produce 21 unique frets for the assembly. 
 
 ## Multiview Drawings
-{% include image-gallery.html images="Stratocaster-Multiview-Drawings-1.jpg, Stratocaster-Multiview-Drawings-2.jpg, Stratocaster-Multiview-Drawings-3.jpg, Stratocaster-Multiview-Drawings-4.jpg" height="400" %}
+{% include image-gallery.html images="Stratocaster-Multiview-Drawings-1.jpg, Stratocaster-Multiview-Drawings-2.jpg, Stratocaster-Multiview-Drawings-3.jpg, Stratocaster-Multiview-Drawings-4.jpg" height="450" %}
 
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
