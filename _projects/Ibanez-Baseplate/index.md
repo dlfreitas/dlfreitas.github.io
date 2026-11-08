@@ -2,7 +2,7 @@
 layout: post
 title: Ibanez TS9 Baseplate
 description:  
-        Designed a guitar pedal baseplate for mounting my pedal onto my pedalboard. Designs being sold online had durability issues noted by customer reviews. Optmized the durability and fit through customer feedback and testing, reinforcing areas that experienced greatest load and added features that transferred the load into the pedal metal chassis. Improved mounting strength and stability by adding material supports around screw contacts and incorporating an interlocking support hook with dual alignment features.
+        Developed a guitar pedal baseplate, optimizing fit and durability through testing and customer feedback, for secure pedalboard mounting. Improved mounting strength and stability by adding supporting material around screw contacts, a tensile latching hook, and alignment features.
 
 skills: 
   - FDM 3D Printing
@@ -13,12 +13,19 @@ main-image: /images/Ibanez-Cover-IMG.jpg
 ---
 
 ---
-## Feature 1
+{% include image-gallery.html images="" %}
 
-## Feature 2
+## Background
+{% include image-gallery.html images="Etsy-Ibanez-(1).jpg" %}
+{% include image-gallery.html images="Etsy-Review.jpg" %}
+This project was inspired by an Etsy listing of an existing Ibanez TS9 backplate. I considered the sellers design but it showed flaws that made it incredibly weak to pulling forces. My mission was to improve the feature strength so it could be taken on and off the pedalboard repeatedly without plastically deforming and failing.
 
-## Feature 3
+## Feature 1 - Screw Tabs
+After creating the flat base geometry through the pedal chassis measurements, 
+## Feature 2 - Interlocking Hook
 
+## Feature 3 - Alignment
+To ensure the 
 
 ## Embedding images 
 ### External images
