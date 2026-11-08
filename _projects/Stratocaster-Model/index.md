@@ -26,7 +26,7 @@ This schematic provided (most) of the necessary dimensions used in this modeling
 {% include image-gallery.html images="Neck-7.jpg" %}
 I began by creating the profile of the neck and headstock forming the radial and tapering boundaries. The headstock was unique in that it did not have defined radii in the drawings, so the best solution was to construct it by approximating with the use of spline curves traced over an outline. I then cut extruded the back of the neck, roughing out the rear shape and creating the face of headstock. 
 {% include image-gallery.html images="Neck-6.jpg, Neck-5.jpg" %}
-For this step, I had to think of a way I created the rear neck curvature by filleting neck contours.
+For this step, I needed to create the rear neck without any callouts shown on the schematic. I created the rear neck curvature by filleting neck contours with a radius that reflects the modern design C-shape profiles.
 {% include image-gallery.html images="Neck-2.jpg" height="600" %}
 **Completed neck part**
 
