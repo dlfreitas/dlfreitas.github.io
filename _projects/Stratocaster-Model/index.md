@@ -48,6 +48,8 @@ In guitar fabrication, frets are a subtractive manufacturing process, initially 
 ## Multiview Drawings
 {% include image-gallery.html images="Stratocaster-Multiview-Drawings-1.jpg, Stratocaster-Multiview-Drawings-2.jpg, Stratocaster-Multiview-Drawings-3.jpg, Stratocaster-Multiview-Drawings-4.jpg" height="450" %}
 
+## Completed Subassembly
+{% include image-gallery.html images="Neck-Fretboard-Subassembly.jpg" height="650" %}
 
 <div style="display: flex; justify-content: center; margin: 2rem 0;">
   <iframe 
