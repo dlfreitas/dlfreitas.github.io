@@ -18,14 +18,16 @@ main-image: /images/Ibanez-Cover-IMG.jpg
 ## Background
 {% include image-gallery.html images="Etsy-Ibanez-(1).jpg" %}
 {% include image-gallery.html images="Etsy-Review.jpg" %}
-This project was inspired by an Etsy listing of an existing Ibanez TS9 backplate. I considered the sellers design but it showed flaws that made it incredibly weak to pulling forces. My mission was to improve the feature strength so it could be taken on and off the pedalboard repeatedly without plastically deforming and failing.
+This project was inspired by an Etsy listing of an existing Ibanez TS9 backplate. I considered the sellers design but it showed flaws that made it incredibly weak to pulling forces. My mission was to improve the feature strength so it could be taken on and off the pedalboard repeatedly without plastically deforming and failing. My biggest challenge was designing 
 
 ## Feature 1 - Screw Tabs
-After creating the flat base geometry through the pedal chassis measurements, 
-## Feature 2 - Interlocking Hook
-
-## Feature 3 - Alignment
-To ensure the 
+After creating the flat base geometry from the chassis measurements, I began by improving the screw contact tabs first. My goal was to improve tab strength without compromising the thread engagement. My first attempt simply increased the thickness of the feature. However, in testing, the tabs still plastically deformed around the screw head after removing the pedal from the board. My best next move was to determine how much, so I tested  My second attempt, I was able to add  as much as the threads would allow. 
+Ibanez-2.5.jpg
+Now, I realized that the floating tab would act like a cantilever under load and I needed to support the I needed to I added wall supports that connected the tab to the 
+## Feature 2 - Latching Hook
+I created 3 different sketches that made the hook to behave as parameters I can tune to find the optimal fit. The *Hook Base* defined the clearance from the initial chassis lip I intended to latch onto, the *Hook Spacer* defined the 
+## Feature 3 - Alignment Features
+To ensure the backplate also resists forces in the lateral direction, I added a symmetrical alignment feature toward the bottom where the screws cannot resist.
 
 ## Embedding images 
 ### External images
