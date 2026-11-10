@@ -20,7 +20,7 @@ This project was inspired by an Etsy listing of an existing Ibanez TS9 backplate
 ## Feature 1 - Screw Tabs
 {% include image-gallery.html images="Ibanez-Sketch.jpg, Ibanez-2.5.jpg" height="450" %}
 After measuring the pedal chassis and creating the base geometry, I began by improving the screw contact tabs first. My goal was to improve tab strength without compromising the thread engagement. My first attempt simply increased the thickness of the feature, however, in testing, the tabs plastically deformed around the screw head after pulling the pedal off. My best next move was to determine the thickest tab spacing that maintained a strong thread engagement. To test values, I printed O-ring spacers of heights ranging from 0.8 mm - 2 mm in 0.4 mm increments to match my layer height. I determined 1.6 mm was the thickest spacer that allowed for solid thread engagement. In this iteration, I was able to create a tab that did not deform to the screw head after several removals. 
-{% include image-gallery.html images="Ibanez-3.jpg, Ibanez-Feature-3.jpg" height="450" %}
+{% include image-gallery.html images="Ibanez-3.jpg, Ibanez-Feature-3.jpg" height="400" %}
 Afterwards, I noticed that the floating tabs would behave as a cantilevers and were now susceptible to torque. I needed supporting material to wrap around the tab so I added wall supports that connected the hovering areas to the flat back. This created tabs that were not deforming during testing, but required me to restrain the loose bottom side.
 <br>
 ## Feature 2 - Latching Hook
@@ -34,7 +34,7 @@ I created 3 separate sketches to behave as parameters I can change to tune the f
 To ensure the lower section resisted all forces, I had to create a feature that opposed forces in the lateral direction. I added a symmetrical alignment feature that fit to the inner chassis wall which aided in alignment when inserting and prevented twisting. This finalized my first revision of the design.
 {% include image-gallery.html images="Ibanez-Fitting-(2).jpg" height="450" %}
 <br>
-## Completed Part
+## Completed Baseplate
 {% include image-gallery.html images="Ibanez-1.jpg" height="600" %}
 {% include image-gallery.html images="Ibanez-Installed.jpg, Finished-Pedalboard.jpg" height="400" %}
 
