@@ -29,7 +29,7 @@ Afterwards, I noticed that the floating tabs would behave as a cantilevers and w
 ## Feature 2 - Latching Hook
 {% include image-gallery.html images="Ibanez-Pedal-Constaints.jpg" height="450" %}
 My next feature needed to address the lower segment of the baseplate. Without any other tapped holes, I could not reutilize the north end tab feature and the 2 screws alone were not enough to secure the backplate. By removing the 9V battery cover, it gave me access to a cavity with features I could utilize. I noticed a lip on the bottom side and began designing a complementary latching hook. 
-{% include image-gallery.html images="Ibanez-2.6.jpg" height="450" }
+{% include image-gallery.html images="Ibanez-2.6.jpg" height="450" %}
 I created 3 separate sketches to behave as parameters I can change to tune the fit. The *Hook Base* defined the inward clearance from the chassis perimeter, the *Hook Latch* defined the depth the latch would engage at, and the *Hook Spacer* defined the clearance between the hook and the chassis lip. Through a couple iterations, I tuned the fit of hook to pivot and then catch, making it so the plate can only insert or withdraw when at a 45° angle relative to the lip. This added an extra layer of security so the plate could not accidentally come off under normal use. The result was a load bearing feature that lessened the strain on the screw tabs fully securing the baseplate to the pedal chassis. 
 {% include image-gallery.html images="Ibanez-2.jpg Ibanez-Fitting-(1).jpg" height="450" %}
 <br>
