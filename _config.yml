@@ -48,9 +48,10 @@ skills:
       - Fusion360
       - Bambu Slicer
       - TinkerCad
-  - category: Programming
+  - category: Tools
     tools:
       - C++
+      - Excel
       - MATLAB
   - category: Prototyping & Manufacturing
     tools:
