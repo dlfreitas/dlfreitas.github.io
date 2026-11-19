@@ -38,6 +38,7 @@ To ensure the lower section resisted all forces, I had to create a feature that 
 {% include image-gallery.html images="Ibanez-1.jpg" height="600" %}
 {% include image-gallery.html images="Ibanez-Installed.jpg, Finished-Pedalboard.jpg" height="400" %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80hIAUydWEk" title="Ibanez TS9 Bottom Plate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 12px; max-width: 100%;"> </iframe>
 
 
 
