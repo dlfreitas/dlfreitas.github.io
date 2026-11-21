@@ -31,7 +31,7 @@ I created 3 separate sketches to behave as parameters I can change to tune the f
 {% include image-gallery.html images="Ibanez-2.jpg, Ibanez-Fitting-(1).jpg" height="400" %}
 <br>
 ## Feature 3 - Alignment Features
-To ensure the lower section resisted all forces, I had to create a feature that opposed forces in the lateral direction. I added a symmetrical alignment feature that fit to the inner chassis wall which aided in alignment when inserting and prevented twisting. This finalized my first revision of the design.
+To ensure the lower section resisted all forces, I had to create a feature that opposed forces in the lateral direction. I added a symmetrical alignment feature that fit to the inner chassis wall which aided in alignment when inserting and prevented yaw. This finalized my first revision of the design.
 {% include image-gallery.html images="Ibanez-Fitting-(2).jpg" height="450" %}
 <br>
 ## Completed Baseplate
