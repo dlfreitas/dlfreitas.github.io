@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ibanez TS9 Baseplate
+title: Ibanez TS9 Bottom Plate
 description:  
         Developed a guitar pedal baseplate, optimizing fit and durability through testing and customer feedback, for secure pedalboard mounting. Improved mounting strength and stability by adding supporting material around screw contacts, a tensile latching hook, and alignment features.
 
